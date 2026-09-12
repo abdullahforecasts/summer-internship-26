@@ -3,3 +3,7 @@ https://github.com/uonliaquat/aibee-internship
 Here is the Extensive task 2 , where i contributed to this repo in my own branch and doing the major work of my summer internship at AiBee.pk
 
 https://github.com/uonliaquat/aibee-internship/tree/team-d/AbdullahNawaz/dequantization/task2/team-d
+
+pre-internship independent work :
+
+https://github.com/abdullahforecasts/Distributed-Transformer-
